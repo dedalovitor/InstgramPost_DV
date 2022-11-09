@@ -1,0 +1,41 @@
+body {
+    background-color:rgb(0, 0, 0);
+    width: 100%;
+}
+.wrapper {
+   margin:0 auto;
+   width: 526px;
+   background-color: white;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+.topdiv {
+    display: flex;
+    padding: 15px 15px 15px 15px;
+}
+.htmlIcon {
+    margin-right: 10px;
+}
+.htmlText{
+    font-size: 15px;
+    width: 10%;
+    line-height: 3px;
+}
+.thirdicon {
+    width: 80%;
+}
+.myfirstphotocount {
+    color: rgb(180, 179, 179);
+    margin: 0%;
+}
+img {
+    width: 100%;
+    margin-bottom: -20px;
+}
+.bottomText {
+    padding: 10px;
+    font-size: 15px;
+}
+.iconsSeconds {
+    display: flex;
+}
